@@ -1,0 +1,20 @@
+/* Apply background color to the entire page */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Style for h1 */
+h1 {
+    color: #333;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+/* Style for h6 */
+h6 {
+    color: #555;
+    font-size: 14px;
+    font-style: italic;
+}
